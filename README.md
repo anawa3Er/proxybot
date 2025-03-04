@@ -20,8 +20,8 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/InstaPy/InstaPy
-cd proxy-list-grabber
+git clone https://github.com/anawa3Er/proxybot/
+cd pproxybot
 
 Install required Python dependencies:
 
