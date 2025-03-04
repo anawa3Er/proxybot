@@ -33,7 +33,7 @@ Usage
 
 Run the script using the following command:
 
-python proxy_scraper.py
+python 1.py
 
 The script will scrape proxies and save them to a file or display them in the terminal (depending on your implementation).
 
@@ -56,6 +56,7 @@ This project is open-source and available under the MIT License.
 Author
 
 Created by benayad
+benayadachraf72@gmail.com
 Contributions
 
 Feel free to submit pull requests or report issues to improve the project!
